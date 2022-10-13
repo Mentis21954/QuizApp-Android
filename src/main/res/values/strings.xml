@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Quiz Ball</string>
+    <string name="your_score">Your Score</string>
+    <string name="dev_name">Kontantinos Antonis Mentis</string>
+    <string name="email">it21954@hua.gr</string>
+    <string name="quizapp">Quiz Ball</string>
+    <string name="about">Το καλύτερο ποδοσφαρικό και πιο απαιτητικό παιχνίδι γνώσεων. Ο κάθε παίκτης ξεκινάει με 3
+    ζωές και για κάθε λάθος απάντηση χάνει μία ζωή. Όποιος δεν χάσει όλες τις ζωές του τότε κερδίζει.</string>
+</resources>

@@ -21,3 +21,5 @@ QuizBee is an android based application, and enables the user to undertake a ser
 If you have any queries or suggestions you can mail me: vkasojhaa@gmail.com
 
 You are welcome to suggest any changes, just send a pull request.
+
+have a nice day
